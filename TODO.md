@@ -1,0 +1,1 @@
+- [ ] Learn how to make commits in lazygit
